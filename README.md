@@ -1,10 +1,10 @@
 # Call-Centre-Trends
 
-# Overview
+## Overview
 A comprehensive analysis to evaluate customer satisfaction, focusing on key metrics such as call answer and abandon rates, call distribution by time, and average speed of answer.
 Developing an agent performance quadrant by correlating average handle time and calls answered to identify high-performing agents and operational bottlenecks.
 
-# Business Requirement
+## Business Requirement
 >>>>Overall customer satisfaction
 
 >>>>Overall calls answered/abandoned
@@ -15,7 +15,7 @@ Developing an agent performance quadrant by correlating average handle time and 
 
 >>>>Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
-# Approaches
+## Approaches
 1. Data Collection:
 
 Imported call center data containing information about calls, agent performance, resolution rates, satisfaction scores, and monthly trends.
@@ -61,7 +61,7 @@ Gauge charts for satisfaction scores.
 Tables to compare agent performance metrics.
 
 Color-coded visuals to highlight key insights.
-# Insights
+## Insights
 
 1. Call Answer Rate:
 
@@ -105,7 +105,7 @@ Becky, Dan, and Martha have relatively high performance based on calls answered 
 
 The average speed of answer (around 65 to 70 seconds) shows consistency across agents.
 
-# Recommendations
+## Recommendations
 *Focus on improving call resolution rates and agent efficiency.
 
 *Lower the average speed of answer to enhance customer experience.
